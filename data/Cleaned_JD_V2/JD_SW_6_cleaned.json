@@ -1,0 +1,66 @@
+{
+    "Metadata": {
+        "Job_Title": "Senior Backend Developer",
+        "Processed_At": "2026-04-12T00:37:30.943914"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Not specified"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "java",
+                "analytical thinking",
+                "scrum",
+                "kotlin",
+                "Good problem-solving skills",
+                "industry expertise",
+                "kanban",
+                "Clojure",
+                "CI/CD tools",
+                "Excellent communication and teamwork abilities",
+                "English",
+                "agile"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "certifications"
+            ],
+            "From_Taxonomy_Expansion": [
+                "six sigma",
+                "golang",
+                "rust",
+                "waterfall",
+                "jdk",
+                "spring",
+                "lean",
+                "scaled agile framework",
+                "ruby",
+                "rup",
+                "c",
+                "laravel",
+                "spring security",
+                "symfony",
+                "c++",
+                "spring boot",
+                "go",
+                "sdlc",
+                "php",
+                "spring mvc",
+                "safe",
+                "ruby on rails",
+                "jpa",
+                "hibernate",
+                "struts",
+                "j2ee"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "good problem solver",
+        "excellent communication ability"
+    ]
+}

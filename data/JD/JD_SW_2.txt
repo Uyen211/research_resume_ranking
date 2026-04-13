@@ -1,0 +1,63 @@
+About the job
+Welfare
+
+ Attractive remuneration with competitive income and 6 months/year salaries/ efficient production and business.
+ A welfare package of $2000 per year including Tet bonus, holiday bonus and resort.
+ Being a colleague of a team of leading technology experts in fields such as: DPI, BigData, Machine Learning, AI, Data Mining, Speech Recognition, Virtual Assistant…
+ Improve capacity through intensive training courses, study support and professional certification exams.
+ Consider raising the minimum salary once a year. Access to attractive promotion opportunities.
+ 12 days holiday, 12 vacation days and 3 annual vacation days.
+ Always enjoy to the fullest full benefits of social insurance, health insurance, unemployment insurance and statutory leave and sick leave after signing the labor contract
+ Join the comprehensive health care MIC insurance package.
+ Relax, spark creativity with Happy Time every day, modern workspace.
+ Enjoy a delicious lunch, selected by nutritionists.
+ Working in key projects of the Group with large system scale.
+ Experience the multiculturalism when working with Viettel's personnel in more than 10 countries.
+
+Job Descriptions
+
+Building an interactive system with a large number of users.
+
+Statistics, analysis and data processing.
+
+Building statistical modules according to the requirements of the users. customers on the basis of Big Data technology.
+
+NoSQL database design organization.
+
+Development and performance optimization for large data processing modules real-time.
+
+Participate in research and customize new technologies as required by the project.
+
+Job requirements
+
+General Requirements
+
+Graduated from a regular university with good grade or higher, majoring in accordance with the position.
+
+Having experience of 02 years or more (accepting the whole process of experience work while undergrad).
+
+TOEIC 550/990.
+
+Required Requirements
+
+Master some knowledge of common data structures and algorithms.
+
+Have an object-oriented design mindset and master some common design patterns. .
+
+Familiar with SQL and some common DBMS.
+
+Knowledge of computer networks (protocols and protocols).
+
+Fluent. using relational databases, or NOSQL systems.
+
+Proficient in object-oriented programming, Java core (preferably understanding of multiple thread programming systems).
+
+Fluent in using one of the programming languages: Java, Python, Scala.
+
+Know how to use software development tools: Gradle, Maven …
+
+Priority Requirements
+
+Experience in working with Hadoop Ecosystems such as Kafka, Spark, Hbase… p>
+
+Experience in writing Clean, Testable Codes

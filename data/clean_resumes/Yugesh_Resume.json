@@ -1,0 +1,769 @@
+{
+    "Information": {
+        "Name": "Yugesh,",
+        "Phone": "+1(515)-650-2459,",
+        "Email": "yugeshm4@gmail.com,",
+        "Location": null,
+        "LinkedIn": null,
+        "Job_Title_Original": "Full Stack Java/J2EE Developer,",
+        "Job_Title_Standardized": null,
+        "Years_of_Exp": 8.0
+    },
+    "Hard_Skills": {
+        "Direct_Mention": [
+            {
+                "skill": "Agile",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_agile",
+                "years": 8.0,
+                "zones": [
+                    "summary",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Waterfall methodologies",
+                "taxonomy_id": null,
+                "years": 0.0,
+                "zones": [
+                    "summary"
+                ]
+            },
+            {
+                "skill": "JMS",
+                "taxonomy_id": null,
+                "years": 0.0,
+                "zones": [
+                    "skills_list"
+                ]
+            },
+            {
+                "skill": "JUnit",
+                "taxonomy_id": "QA_and_Testing.Testing_Frameworks_junit",
+                "years": 8.0,
+                "zones": [
+                    "skills_list",
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Mockito",
+                "taxonomy_id": "QA_and_Testing.Testing_Frameworks_mockito",
+                "years": 8.0,
+                "zones": [
+                    "skills_list",
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Log4j",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "skills_list",
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JMeter",
+                "taxonomy_id": "QA_and_Testing.Performance_Tools_jmeter",
+                "years": 0.0,
+                "zones": [
+                    "skills_list"
+                ]
+            },
+            {
+                "skill": "Selenium Web Driver",
+                "taxonomy_id": "QA_and_Testing.Testing_Frameworks_selenium",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "GIT",
+                "taxonomy_id": "Infrastructure_and_DevOps.Version_Control_git",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "STS",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "RabbitMQ",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SLF4j",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Struts",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_struts",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "DB2",
+                "taxonomy_id": "Data_and_AI.Databases_RDBMS_ibm db2",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Rational Rose",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.BA_Design_Tools_rational rose",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Eclipse Indigo 3.5",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Apache Tomcat",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_apache tomcat",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Oracle 10g",
+                "taxonomy_id": "Data_and_AI.Databases_RDBMS_oracle 11g",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SVN",
+                "taxonomy_id": "Infrastructure_and_DevOps.Version_Control_svn",
+                "years": 8.0,
+                "zones": [
+                    "experience",
+                    "environment"
+                ]
+            },
+            {
+                "skill": "HTML5",
+                "taxonomy_id": "Software_Development.Frontend.Core_html5",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "CSS3",
+                "taxonomy_id": "Software_Development.Frontend.Core_css3",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JavaScript",
+                "taxonomy_id": "Software_Development.Frontend.Core_javascript",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JQuery",
+                "taxonomy_id": "Software_Development.Frontend.Frameworks_Libraries_jquery",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Ajax",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Bootstrap",
+                "taxonomy_id": "Software_Development.Frontend.Frameworks_Libraries_bootstrap",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "AngularJS",
+                "taxonomy_id": "Software_Development.Frontend.Frameworks_Libraries_angularjs",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "AWS",
+                "taxonomy_id": "Infrastructure_and_DevOps.Cloud_Computing.AWS_aws",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Micro Services",
+                "taxonomy_id": "Software_Development.Architecture_and_APIs.Concepts_microservices",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Hibernate",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_hibernate",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_spring",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "MongoDB",
+                "taxonomy_id": "Data_and_AI.Databases_NoSQL_mongodb",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring Batch",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring Boot",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_spring boot",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring Security",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_spring security",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "XML",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JSP",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring MVC",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_spring mvc",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JDBC",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Maven",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_maven",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "IBM WebSphere",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "BackboneJS",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Restful",
+                "taxonomy_id": "Software_Development.Architecture_and_APIs.Concepts_rest",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SOA",
+                "taxonomy_id": "Software_Development.Architecture_and_APIs.Concepts_soa",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JIRA",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_jira",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Jenkins",
+                "taxonomy_id": "Infrastructure_and_DevOps.CI_CD_jenkins",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Java",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_java",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "J2EE",
+                "taxonomy_id": "Software_Development.Backend.Java_Ecosystem_j2ee",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JSON",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SOAP",
+                "taxonomy_id": "Software_Development.Architecture_and_APIs.Concepts_soap",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "WSDL",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Multithreading",
+                "taxonomy_id": "Computer_Science_Fundamentals.Core_Concepts_multithreading",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Concurrency",
+                "taxonomy_id": "Computer_Science_Fundamentals.Core_Concepts_concurrency",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Exception Handling",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Oracle",
+                "taxonomy_id": "Data_and_AI.Databases_RDBMS_oracle db",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JAXB",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Web Logic",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Unix/Linux",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "HTML",
+                "taxonomy_id": "Software_Development.Frontend.Core_html",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "CSS",
+                "taxonomy_id": "Software_Development.Frontend.Core_css",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JSTL",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JNDI",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Factory pattern",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JSR-168",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JSR-268",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "XSLT",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "UDDI",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JVM",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "UCM",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "LDAP",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Windows XP",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_xp",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "UNIX",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "UML",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.BA_Design_Tools_uml",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Rational Clear Case",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Clear Quest",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Web logic Server",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Struts MVC",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Spring AOP",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "PL/SQL",
+                "taxonomy_id": "Data_and_AI.Databases_RDBMS_pl/sql",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Stored Procedures",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Collections",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JAX-B",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "JAX-WS",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SoapUI",
+                "taxonomy_id": "Software_Development.Architecture_and_APIs.Tools_soapui",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Singleton Design Patterns",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Kanban Trello",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_kanban",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Tortoise SVN",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Eclipse IDE",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "Waterfall",
+                "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_waterfall",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "DOM",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "SAX",
+                "taxonomy_id": null,
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            },
+            {
+                "skill": "ANT",
+                "taxonomy_id": "Software_Development.Frontend.Frameworks_Libraries_ant design",
+                "years": 8.0,
+                "zones": [
+                    "environment"
+                ]
+            }
+        ],
+        "Certifications": []
+    },
+    "Soft_Skills": [],
+    "Education": {
+        "Major": "Bachelor's Degree",
+        "Degree": "Bachelor"
+    }
+}

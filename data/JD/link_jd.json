@@ -1,0 +1,70 @@
+{
+    "JD_BA_1": {
+        "id": 1,
+        "url": "https://www.linkedin.com/jobs/view/4392944039/?trackingId=ydGUEZclS%2B2luVZqJPsxPg%3D%3D"
+    },
+    "JD_BA_2": {
+        "id": 2,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4385418862&f_C=6282%2C53399%2C66808&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4390919033%2C4391663379%2C4392856421%2C4398215243%2C4374358276%2C4390795201%2C4393355462%2C4385728262%2C4393159243&start=150"
+    },
+    "JD_BA_3": {
+        "id": 3,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4379666064&keywords=business%20analyst&origin=SWITCH_SEARCH_VERTICAL"
+    },
+    "JD_BA_4": {
+        "id": 4,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4392196026&keywords=business%20analyst&origin=SWITCH_SEARCH_VERTICAL"
+    },
+    "JD_SW_1": {
+        "id": 5,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4394468368&geoId=104195383&keywords=Java%2FFull-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+    },
+    "JD_SW_2": {
+        "id": 6,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4389994572&geoId=104195383&keywords=Java%2FFull-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+    },
+    "JD_SW_3": {
+        "id": 7,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4385851365&geoId=104195383&keywords=Full-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+    },
+    "JD_SW_4": {
+        "id": 8,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4352027160&geoId=104195383&keywords=Full-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+    },
+    "JD_SW_5": {
+        "id": 9,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4392422164&geoId=104195383&keywords=Full-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&start=50"
+    },
+    "JD_SW_6": {
+        "id": 10,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4395937803&geoId=104195383&keywords=Full-Stack%20Developer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&start=75"
+    },
+    "JD_PM_1": {
+        "id": 11,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4397791021&geoId=104195383&keywords=project%20manager&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    },
+    "JD_PM_2": {
+        "id": 12,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4394473298&geoId=104195383&keywords=project%20manager%20IT&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+    },
+    "JD_SM_1": {
+        "id": 13,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4395931758&geoId=104195383&keywords=scrum%20master&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    },
+    "JD_SM_2": {
+        "id": 14,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4343972604&geoId=104195383&keywords=scrum%20master&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    },
+    "JD_DA_DE_1": {
+        "id": 15,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4394449219&geoId=104195383&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    },
+    "JD_DA_DE_2": {
+        "id": 16,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4391568382&geoId=104195383&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    },
+    "JD_DA_DE_3": {
+        "id": 17,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4394766691&geoId=104195383&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+    }
+}

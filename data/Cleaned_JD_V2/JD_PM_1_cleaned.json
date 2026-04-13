@@ -1,0 +1,34 @@
+{
+    "Metadata": {
+        "Job_Title": "Candidates",
+        "Processed_At": "2026-04-12T00:38:27.729864"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 3,
+        "Required_Degree": "Bachelor's degree or higher"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Chinese language",
+                "English"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "project management professional"
+            ],
+            "From_Taxonomy_Expansion": []
+        }
+    },
+    "Soft_Skills": [
+        "Analytical thinking",
+        "language fluent english oral written",
+        "team productivity",
+        "excellent communication negotiation",
+        "Chinese language skills",
+        "Independent and proactive work ethic",
+        "ability to handle unforeseen situations"
+    ]
+}

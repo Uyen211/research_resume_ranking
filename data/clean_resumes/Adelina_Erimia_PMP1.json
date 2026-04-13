@@ -1,0 +1,239 @@
+{
+  "Information": {
+    "Name": "Adelina Erimia",
+    "Phone": "469-331-7851",
+    "Email": "erimia@msn.com",
+    "Location": null,
+    "LinkedIn": null,
+    "Job_Title_Original": "PROJECT MANAGER",
+    "Job_Title_Standardized": "Certifications_and_Standards.Project_Management_and_Agile_project management professional",
+    "Years_of_Exp": 16.0
+  },
+  "Hard_Skills": {
+    "Direct_Mention": [
+      {
+        "skill": "Six Sigma Green Belt",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "summary"
+        ]
+      },
+      {
+        "skill": "Excellent communicator",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "summary"
+        ]
+      },
+      {
+        "skill": "project management methodologies",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "summary"
+        ]
+      },
+      {
+        "skill": "MS Project",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_ms project",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "PPM",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Smartsheet",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Microsoft Word",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Excel",
+        "taxonomy_id": null,
+        "years": 5.7,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "PowerPoint",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Outlook",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Visio",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.BA_Design_Tools_ms visio",
+        "years": 3.3,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "SharePoint",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_sharepoint",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Remedy",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Service Now",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Waterfall",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_waterfall",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Agile",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_agile",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Scrum",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_scrum",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "ITIL",
+        "taxonomy_id": "Certifications_and_Standards.Project_Management_and_Agile_itil",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Incident Management",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Change Management",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Problem Management",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Project Management methodology",
+        "taxonomy_id": null,
+        "years": 0.6,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "tools",
+        "taxonomy_id": null,
+        "years": 3.9,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "best practices",
+        "taxonomy_id": null,
+        "years": 3.3,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "SCADA",
+        "taxonomy_id": null,
+        "years": 3.3,
+        "zones": [
+          "environment"
+        ]
+      },
+      {
+        "skill": "RFP",
+        "taxonomy_id": null,
+        "years": 3.3,
+        "zones": [
+          "environment"
+        ]
+      }
+    ],
+    "Certifications": [
+      "PMI-Certified",
+      "Six Sigma Green Belt",
+      "PMP"
+    ]
+  },
+  "Soft_Skills": [
+    {
+      "skill": "business and financial acumen",
+      "taxonomy_id": "Management, business processes and administration.customer-business-customers_business acumen"
+    }
+  ],
+  "Education": {
+    "Major": "BA",
+    "Degree": null
+  }
+}

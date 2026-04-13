@@ -1,0 +1,87 @@
+About the job
+Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.
+
+ 
+
+By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.
+
+ 
+
+From prototype to real-world impact - be part of a global shift by doing work that matters.
+
+
+
+
+Job Description
+
+Development is the largest discipline at Endava. Our developers design, build, and release software products in multiple programming languages, frameworks, and libraries. Always collaborating with cross-functional project teams, our developers are adaptable problem-solvers with a client-oriented mindset. 
+
+
+As a Senior Backend Developer (Kotlin/Java) at Endava, you will join a professional and cross-functional team working on a large-scale, highly distributed system consisting of approximately 300 microservices. The primary objective of this project is to migrate core microservices from Clojure to Kotlin, ensuring improved maintainability, performance, and scalability. You will be actively involved in the full software development lifecycle, from technical analysis and design to implementation, testing, and deployment. As an integral member of an Agile Scrum team, you will contribute to continuous improvement initiatives and engineering best practices.
+
+
+Responsibilities:
+
+
+
+Designs, estimates, and implements technical solutions for re-engineering microservices from Clojure to Kotlin within a highly distributed microservices ecosystem. 
+Participates actively in all phases of the application development lifecycle. 
+Collaborates with various project stakeholders to provide support for clarifying requirements, processes, architecture, and priorities. 
+Proposes improvements and escalates risks/issues related to development activities. 
+Participates in the review of the work done by development team members. 
+Learns and applies new technologies, practices, and tools as appropriate to the project. 
+Participates in internal and external tech communities, events, etc. 
+Shares experience and knowledge gained from projects. 
+
+Qualifications
+
+Mandatory skills:
+
+
+
+4+ years of professional experience in backend development using Kotlin/Java, with strong expertise in designing, developing, and maintaining production-grade applications. 
+Proven hands-on experience with microservices architecture, including service decomposition, inter-service communication, API design, resilience patterns, and scalability considerations within distributed systems. 
+Practical experience working with both SQL and NoSQL databases, particularly MongoDB, including data modeling, performance optimization, and transactional consistency strategies. 
+Strong understanding of clean code principles, object-oriented design, and modern backend development best practices. 
+Experience with Agile methodologies (e.g., SCRUM, KANBAN). 
+Knowledge of CI/CD tools and practices. 
+Good problem-solving skills and analytical thinking. 
+Excellent communication and teamwork abilities. 
+Good communication in English. 
+Nice to Have:
+
+
+
+Prior experience with Clojure, enabling better understanding and analysis of the legacy services to support effective re-implementation. 
+Experience with Kafka or other messaging systems, including event-driven architecture, asynchronous communication, and message reliability patterns. 
+Familiarity with CI/CD pipelines, containerization (Docker), and cloud-native environments
+
+Additional Information
+
+Discover some of the global benefits that empower our people to become the best version of themselves:
+
+
+
+Finance:
+ Competitive salary package, share plan, company performance bonuses, value-based recognition awards, referral bonus; 
+Career Development:
+Career coaching, global career opportunities, non-linear career paths, internal development programmes for management and technical leadership;
+Learning Opportunities:
+Complex projects, rotations, internal tech communities, training, certifications, coaching, online learning platforms subscriptions, pass-it-on sessions, workshops, conferences;
+Work-Life Balance:
+ Hybrid work and flexible working hours, employee assistance programme;
+Health:
+Global internal wellbeing programme, access to wellbeing apps;
+Community:
+ Global internal tech communities, hobby clubs and interest groups, inclusion and diversity programmes, events and celebrations. 
+Additional Local Benefits 
+
+
+Annual leave encashment. 
+13th month salary
+Premium annual health check & Extra health & accident insurance. 
+Welcome kit and gift-giving frequency. 
+Attractive benefits of Trade Union. 
+Exciting English programme. 
+
+At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.

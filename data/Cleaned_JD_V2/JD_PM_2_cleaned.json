@@ -1,0 +1,54 @@
+{
+    "Metadata": {
+        "Job_Title": "Project Manager",
+        "Processed_At": "2026-04-12T00:37:42.906668"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Not specified"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Business acumen",
+                "Vietnamese",
+                "jira",
+                "Working knowledge",
+                "English",
+                "scrum of scrums",
+                "agile"
+            ],
+            "Certifications": [
+                "Apple Carplay",
+                "Android Auto"
+            ]
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "six sigma",
+                "rally",
+                "waterfall",
+                "scaled agile framework",
+                "lean",
+                "sharepoint",
+                "hp quality center",
+                "hp alm",
+                "kanban",
+                "asana",
+                "ms project",
+                "microsoft project",
+                "scrum",
+                "sdlc",
+                "confluence",
+                "safe",
+                "rup",
+                "trello"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "strong interpersonal",
+        "business acumen"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "Metadata": {
+        "Job_Title": "sales agents",
+        "Processed_At": "2026-04-12T00:37:26.020398"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 3,
+        "Required_Degree": "Not specified"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "ESLint",
+                "css",
+                "redux",
+                "react.js",
+                "node.js",
+                "webpack",
+                "axios",
+                "problem-solving skills",
+                "RamdaJS",
+                "next.js",
+                "SCSS",
+                "Strong logical thinking",
+                "html",
+                "Google Maps",
+                "VS Code",
+                "javascript",
+                "systematic analysis"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "nuxt.js",
+                "pm2",
+                "openapi",
+                "pnpm",
+                "ts",
+                "babel",
+                "svelte",
+                "swagger",
+                "deno",
+                "wasm",
+                "typescript",
+                "angularjs",
+                "grunt",
+                "apollo",
+                "js",
+                "npm",
+                "postman",
+                "vite",
+                "css3",
+                "angular",
+                "html5",
+                "bootstrap",
+                "nestjs",
+                "vue.js",
+                "fastify",
+                "webassembly",
+                "soapui",
+                "express.js",
+                "meteor",
+                "yarn",
+                "sveltekit",
+                "gulp"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "Strong logical thinking",
+        "problem solving"
+    ]
+}

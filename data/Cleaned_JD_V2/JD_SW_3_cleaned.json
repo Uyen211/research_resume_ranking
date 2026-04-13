@@ -1,0 +1,59 @@
+{
+    "Metadata": {
+        "Job_Title": "Software Engineer Interns",
+        "Processed_At": "2026-04-12T00:37:18.363737"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Bachelor's program"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "c++",
+                "java",
+                "go",
+                "ruby",
+                "English",
+                "Computer Science",
+                "communication skills",
+                "python"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "tornado",
+                "golang",
+                "rust",
+                "jdk",
+                "spring",
+                "c",
+                "laravel",
+                "flask",
+                "django",
+                "spring security",
+                "celery",
+                "fastapi",
+                "symfony",
+                "spring boot",
+                "sqlalchemy",
+                "php",
+                "spring mvc",
+                "ruby on rails",
+                "jpa",
+                "hibernate",
+                "struts",
+                "j2ee"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "creative problem solving",
+        "able demonstrate good communication team",
+        "team productivity",
+        "project management including",
+        "strong communication ability"
+    ]
+}

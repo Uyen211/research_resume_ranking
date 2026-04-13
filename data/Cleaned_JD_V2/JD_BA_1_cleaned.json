@@ -1,0 +1,51 @@
+{
+    "Metadata": {
+        "Job_Title": "OPTiX Project Director",
+        "Processed_At": "2026-04-12T00:36:55.802294"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Not specified"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "waterfall",
+                "BA methodologies",
+                "Specialist/Technical Expertise",
+                "business analysis toolsets",
+                "uml"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "IIBA certifications",
+                "BCS International Diploma in Business Analysis"
+            ],
+            "From_Taxonomy_Expansion": [
+                "six sigma",
+                "scaled agile framework",
+                "lean",
+                "draw.io",
+                "kanban",
+                "axure",
+                "agile",
+                "bpmn",
+                "erwin",
+                "lucidchart",
+                "ms visio",
+                "scrum",
+                "sdlc",
+                "safe",
+                "rup",
+                "rational rose",
+                "balsamiq",
+                "figma"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "technical expertise"
+    ]
+}

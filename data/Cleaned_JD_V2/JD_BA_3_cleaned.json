@@ -1,0 +1,36 @@
+{
+    "Metadata": {
+        "Job_Title": "Product Executive",
+        "Processed_At": "2026-04-12T00:38:15.937427"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 3,
+        "Required_Degree": "university degree"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "teamwork skills",
+                "Excellent time management",
+                "Mixpanel",
+                "aws data analytics",
+                "AppsFlyer",
+                "problem-solving"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "microsoft certified data analyst",
+                "google data engineer"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "team productivity",
+        "Strong logical thinking",
+        "excellent time management",
+        "problem solving"
+    ]
+}

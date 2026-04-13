@@ -1,0 +1,46 @@
+{
+    "Metadata": {
+        "Job_Title": "PO/Tech Lead",
+        "Processed_At": "2026-04-12T00:38:30.612941"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "University graduate"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "jira"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "problem-solving skills",
+                "progress and performance management skills",
+                "coordination",
+                "Strong systems thinking",
+                "pmp",
+                "Strong communication",
+                "scrum of scrums"
+            ],
+            "From_Taxonomy_Expansion": [
+                "rally",
+                "microsoft project",
+                "sharepoint",
+                "hp quality center",
+                "confluence",
+                "hp alm",
+                "asana",
+                "ms project",
+                "trello"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "problem solving",
+        "Strong systems thinking",
+        "strong communication",
+        "performance management"
+    ]
+}

@@ -1,0 +1,568 @@
+{
+  "Information": {
+    "Name": null,
+    "Phone": null,
+    "Email": null,
+    "Location": null,
+    "LinkedIn": null,
+    "Job_Title_Original": "Program Manager",
+    "Job_Title_Standardized": null,
+    "Years_of_Exp": 14.0
+  },
+  "Hard_Skills": {
+    "Direct_Mention": [
+      {
+        "skill": "BI Launchpad",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list",
+          "summary"
+        ]
+      },
+      {
+        "skill": "Business Objects Reporting Tool",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "summary"
+        ]
+      },
+      {
+        "skill": "AS400",
+        "taxonomy_id": null,
+        "years": 0.6,
+        "zones": [
+          "environment",
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "PEGA PRPC",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Oracle",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_oracle db",
+        "years": 11.7,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "PL/SQL",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_pl/sql",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "VS COBOL-II",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "IBM MQ Series 5.3",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_t-sql",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "JCL",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Ezytreive",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "REXX",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "CICS",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "IBM Utilities",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "DB2",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_ibm db2",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "VSAM",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "ISPF",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "IDCAMS",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "SPUFI",
+        "taxonomy_id": "IoT_and_Embedded_Systems.Protocols_spi",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "File AID for DB2",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "QMF",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "File AID",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Endevor",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Xpeditor",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "BMC",
+        "taxonomy_id": null,
+        "years": 1.7,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Platinum tool for DB2",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "BI Launch Pad (Business Objects)",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Hyperian Reporting",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Microsoft Office",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "MS Share Point",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Microsoft Project Plan",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_microsoft project",
+        "years": 12.7,
+        "zones": [
+          "environment",
+          "skills_list",
+          "experience"
+        ]
+      },
+      {
+        "skill": "MS Visio",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.BA_Design_Tools_ms visio",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "HP Project and Portfolio Management (PPM)",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "ITSM",
+        "taxonomy_id": null,
+        "years": 12.7,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "BMC Remedy",
+        "taxonomy_id": null,
+        "years": 1.7,
+        "zones": [
+          "environment",
+          "skills_list",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Lotus Notes",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Service Now",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Clarity",
+        "taxonomy_id": null,
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Salesforce",
+        "taxonomy_id": "Enterprise_Software_and_CRM.Salesforce_salesforce",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Rally",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_rally",
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "skills_list",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Jira",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_jira",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Propel",
+        "taxonomy_id": null,
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "skills_list",
+          "experience"
+        ]
+      },
+      {
+        "skill": "PEGA",
+        "taxonomy_id": null,
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "skills_list",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Agile Principles",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_agile",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Scrum",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Methodologies_scrum",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "ITIL",
+        "taxonomy_id": "Certifications_and_Standards.Project_Management_and_Agile_itil",
+        "years": 0.0,
+        "zones": [
+          "skills_list"
+        ]
+      },
+      {
+        "skill": "Gap Analysis",
+        "taxonomy_id": null,
+        "years": 11.7,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "IPM+",
+        "taxonomy_id": null,
+        "years": 12.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "HP ITSM",
+        "taxonomy_id": "Project_Management_and_Business_Analysis.Tracking_Tools_hp alm",
+        "years": 12.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Request Tracker",
+        "taxonomy_id": null,
+        "years": 12.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Remedy",
+        "taxonomy_id": null,
+        "years": 13.4,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Kintana",
+        "taxonomy_id": null,
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Ciscodocs",
+        "taxonomy_id": null,
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "PREP",
+        "taxonomy_id": null,
+        "years": 12.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Oracle 11i",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_oracle 11g",
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Oracle R12",
+        "taxonomy_id": "Data_and_AI.Databases_RDBMS_oracle 12c",
+        "years": 11.7,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Infrastructure Readiness Coordinator Tracking Tool",
+        "taxonomy_id": null,
+        "years": 1.0,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "IRC Tracker",
+        "taxonomy_id": null,
+        "years": 1.0,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Equipment Purchase Database",
+        "taxonomy_id": null,
+        "years": 1.0,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "Infra Capacity Management",
+        "taxonomy_id": null,
+        "years": 1.0,
+        "zones": [
+          "environment",
+          "experience"
+        ]
+      },
+      {
+        "skill": "BMC Remedy tool",
+        "taxonomy_id": null,
+        "years": 1.7,
+        "zones": [
+          "experience"
+        ]
+      },
+      {
+        "skill": "IP Address Distribution (IPAD)",
+        "taxonomy_id": null,
+        "years": 1.0,
+        "zones": [
+          "environment"
+        ]
+      }
+    ],
+    "Certifications": [
+      "Certified ScrumMaster (CSM)",
+      "Certified DCO Architect (CDA from PEGA systems)",
+      "Certified System Architect (CSA from PEGA Systems)",
+      "ServiceNow Administrator"
+    ]
+  },
+  "Soft_Skills": [
+    {
+      "skill": "Core Competencies",
+      "taxonomy_id": null
+    },
+    {
+      "skill": "Strategic Planning",
+      "taxonomy_id": null
+    },
+    {
+      "skill": "Leadership and People Management",
+      "taxonomy_id": "Management, business processes and administration.team-leadership-management_management leadership"
+    },
+    {
+      "skill": "Mentorship",
+      "taxonomy_id": "Management, business processes and administration.willingness-mentoring-team_provide guidance mentoring"
+    },
+    {
+      "skill": "Vendor Management",
+      "taxonomy_id": "Management, business processes and administration.product-products-contractors_vendor contractor"
+    }
+  ],
+  "Education": {
+    "Major": "Bachelor of Engineering in Computer Science",
+    "Degree": "Master"
+  }
+}

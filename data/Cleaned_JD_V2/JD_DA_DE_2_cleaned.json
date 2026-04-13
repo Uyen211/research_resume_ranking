@@ -1,0 +1,52 @@
+{
+    "Metadata": {
+        "Job_Title": "Data Engineers",
+        "Processed_At": "2026-04-12T00:38:08.862705"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Bachelor’s degree"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "domain-driven design",
+                "Tableau",
+                "Excel",
+                "PowerPoint",
+                "Word",
+                "Power BI",
+                "Superset",
+                "python"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "tornado",
+                "soap",
+                "monolith",
+                "graphql",
+                "microservices",
+                "websockets",
+                "soa",
+                "flask",
+                "django",
+                "fastapi",
+                "celery",
+                "rest",
+                "sqlalchemy",
+                "grpc",
+                "service oriented architecture",
+                "restful api"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "ability learn",
+        "selfmotivated proactive",
+        "strong business acumen",
+        "excellent communication ability"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Metadata": {
+        "Job_Title": "middle management",
+        "Processed_At": "2026-04-12T00:38:20.094600"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 7,
+        "Required_Degree": "Bachelor's degree"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Microsoft Office tools",
+                "R",
+                "Excel",
+                "synthesis skills",
+                "PowerPoint",
+                "t-sql",
+                "Office 365",
+                "Systematic thinking",
+                "Power BI",
+                "analytical",
+                "English",
+                "python"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "tornado",
+                "postgresql",
+                "ibm db2",
+                "oracle 12c",
+                "flask",
+                "django",
+                "fastapi",
+                "celery",
+                "mysql",
+                "mariadb",
+                "sqlite",
+                "sqlalchemy",
+                "oracle db",
+                "mssql",
+                "sql server",
+                "oracle 11g"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "Systematic thinking",
+        "Good English skills",
+        "ability to independently research and apply technology to work"
+    ]
+}

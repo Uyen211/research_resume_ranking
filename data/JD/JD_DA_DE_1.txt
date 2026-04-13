@@ -1,0 +1,38 @@
+About the job
+Mô tả công việc:
+
+To be able to develop/design for Data Lake, System/Data Integration, App engine solutions (containing complex big data computations), ensure the product delivered on time, within budget.
+Work with Data Expert to align architecture and solution.
+Develop, optimize, and maintain scalable ETL/ELT pipelines using AWS services such as Glue, Lambda, and Kinesis.
+Build and manage data storage solutions leveraging AWS S3, Redshift, RDS, DynamoDB, and Athena.
+Design data ingestion workflows from diverse data sources ensuring data quality and integrity.
+To make sure all incidents which cannot be solved on previous lines of support are solved (Level 3 support)
+Provide Data integration standards for new IT projects within Data domain.
+Research and recommend future-proofed Data integration/processing technologies e.g., cloud, advanced data platform.
+Share coding experience with other team members.
+The principal function of a Data Engineer is to make specific tasks, based on the business's specifications:
+Collaborate with Business Analysts (BAs) to design and implement data modeling solutions at Staging, Atomic, Datamart, Sematic layer to provide business intelligence or to provide data to other downstream applications.
+Design and develop solutions, including comprehensive technical documentation and operational/deployment manuals for the operation of the program by operators.
+Have deep knowledge in the data domain, with expertise in utilizing and designing/develop solutions based on batch and real-time data processing technologies such as Kafka, Flink, Kafka Connect, Debezium, Spark, Hadoop, EMR, Glue...
+Have knowledge of AWS cloud and the necessary services/open-source tools for data processing and infrastructure deployment, including EMR, Kubernetes (K8s), EKS, Docker, EventBridge, Lambda,StepFunction, Airflow, Terraform...
+Have knowledge in optimizing data processing on database systems such as Oracle, SQL Server, and big data systems on the cloud.
+Updating, repairing, modifying, developing, enhance existing development.
+Investigate and troubleshoot for issues, incidents, and problems of application as level 3 support.
+Study the technical updates and make the change or do upgrading release in Development area.
+Follow the IT processes (development, operation) and Bank processes.
+Yêu cầu ứng viên:
+
+A bachelor's degree in computer science, information systems, or equivalent work experience, is required
+At least 3-5 years working as data developer/engineer with a focus on AWS cloud technologies.
+Strong hands-on experience with AWS services such as: AWS Glue, Lambda, S3, Redshift, RDS, DynamoDB, Athena, Kinesis, EMR.
+Proficiency in SQL and experience working with relational and NoSQL databases.
+Experience with big data processing frameworks such as Apache Spark, Hadoop, or similar.
+Programming skills in Python, Java, or Scala.
+Experience with ETL/ELT tools and data pipeline orchestration.
+Familiarity with Infrastructure as Code (IaC) tools like CloudFormation or Terraform.
+Familiarity with DevOps practices and CI/CD pipelines
+3+ year Experience with Oracle, SQL Server, MySQL, Postgre
+3+ year experience in Data Warehouse, Data model, Data Integration, Data mart, design Database
+An understanding of bank business domain
+Ability in English reading and writing (mandatory), and speaking, listening (preferable).
+Teamwork, careful, attention to detail, logical thinking.

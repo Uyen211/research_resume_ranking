@@ -1,0 +1,39 @@
+About the Job
+Work Location: Hanoi/Ho Chi Minh City
+
+JOB DESCRIPTION
+Develop user interface features.
+Program landing pages/microsites from Figma design files.
+Proficient in HTML, CSS, JS, Bootstrap, and Tailwind CSS. Optimize HTML/CSS code according to W3C standards and create responsive websites to support running on various devices and browsers.
+Create website effects using CSS3, HTML5, and jQuery.
+Skilled in handling UI/UX according to product requirements.
+Program UI/UX to connect to APIs using Reactjs.
+Build and develop products or systems with a high number of users.
+Responsible for the quality, user experience, and aesthetics of the product while it is operational.
+Provide advice and consultation on product quality, aesthetics, and user experience.
+
+REQUIREMENTS
+
+Graduated in IT or a related field.
+Good aesthetic sense.
+At least 1 year of experience working with ReactJS.
+Thorough knowledge of Redux#, Redux Saga, and Redux Toolkit.
+Familiarity with and familiarity with APIs.
+Strong understanding of JavaScript DOM, promises, and async operations.
+Knowledge of NextJS framework is an advantage.
+Experience using UI libraries such as Bootstrap, Antd Design, Material, Argon, jQuery, etc.
+
+Ability to research and read documentation.
+Familiarity with meta tags, fonts, and layouts.
+Knowledge of CSS, SCSS, etc., and a thorough understanding of properties.
+BENEFITS
+Salary negotiable based on candidate's abilities.
+13 months' salary, a package of $2000/year, and bonuses based on projects and the success of research products.
+Employees are entitled to 12 days of annual leave and 15 days of paid leave, including 11 public holidays, 3 vacation days, and 1 creative day annually.
+
+Employees receive social insurance, health insurance, and unemployment insurance benefits according to regulations and Viettel Group's own insurance scheme.
+They will directly participate in the research, design, and manufacturing of high-tech products in the defense industry; products with long-term research orientations.
+They will have the opportunity to work with many foreign experts and partners, and participate in international scientific conferences in the defense industry.
+They will be sent for training to improve their professional skills and expertise both domestically and internationally.
+
+They will have the opportunity to transfer to a professional military officer/officer position within the Ministry of National Defense of Vietnam.

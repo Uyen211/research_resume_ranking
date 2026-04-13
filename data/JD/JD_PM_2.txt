@@ -1,0 +1,89 @@
+About the job
+About us
+
+Originating from Vietnam, VinFast is committed to the vision of becoming a global smart EV brand. VinFast has laid the foundation for the electric car and motorbike industry in Vietnam while passionately promoting the worldwide EV revolution.
+ 
+With its Customer-First philosophy, VinFast relentlessly innovates and converges intellectual fundamentals in creating best-in-class products with the most affordable prices and outstanding after-sales services. In addition, VinFast provides everybody with the opportunity to use smart EVs while contributing to the creation of a smart, green, and sustainable future.
+ 
+SSI Institute is the main domain in Vehicle Development Division of VinFast, responsible of developping Smart Services including Connected Car Back-end, FOTA, SOTA, Remote Services, Virtual Assisstant,…, Infotainment and connectivity devices (Multimedia Head Unit, Telematic Box, XGateway), Cyber Security on the vehicle
+
+
+
+
+One Project Manager may not have all of the responsibilities mentioned below. Specific assignment shall be given by the Head of Program Management as the case may be.
+
+
+
+During the Planning & Strategy stages:
+
+Generate the assigned smart services roadmap by week/month with dashboards to demonstrate improvement iterations - work closely with Planning (Working knowledge of Jira, TFS, Codebeamer required)
+Generate Release schedule commitment for the assigned devices (including app, if any) - own the live document
+Manage the interface to planning for new commercial contracts and third party features - generate a roadmap by customer value
+During Product development phases:
+
+Drive the development team to fullfill targets of product maturity in term of hardware and software, quality metric according to development phases (A/B/C/D sample or EP/PTO/LS/SOP/STC/STD vehicle).
+Direct the consistent use of Feature burn ups, Bug burn downs, delivery velocity and defect density metrics (from TFS/JIRA)
+Generate the blocker tracker for all devices to provide a system view of maturity
+Work with the Hardware and in house Manufacturing teams to define deadlines, maturity gateways including
+2nd and 3rd source components tracking. Track mechanical test and sign of status
+Collaborate with the UX team, Vehicle System Requirements team, and other relevant teams to manage the scheduling of UX/UI new content reviews, as well as the planning of related releases and baseline specifications. Ensure there is a clear metric and progression for Requirement completeness and test case linkages
+Provide concise reports for DV completions status
+Ensure that the project development plan is fully aligned with the certification roadmap, including regulatory requirements and other certifications such as Android Auto & Apple Carplay
+During Software Integration
+
+
+
+Set up the process for delivering cross functional features - coordinate architecture reviews and drive implementation plans
+Expose the status for Cross functional feature delivery
+Create metrics for System test completion and status
+Manage the progression of Automated test coverage
+Status of Assigned Project(s)
+
+Chair and schedule the following on a continuous basis
+Smart services delivery completeness
+Software releasing project
+Quality
+
+Drive the internal Quality metrics including internal crash reports, Uptime (device and cloud), stability and performance
+Create and maintain comprehensive project documentation
+Monitoring legislative changes and lead the conducting of impact analysis
+Perform risk management to minimize project risks
+Vendor/ Third party relationship management
+
+Establish and maintain relationships with third parties/vendors
+Coordinate internal resources (BE/FE/App/UXUI/QA) and third parties/vendors for the flawless execution of projects
+Negotiate deliverables, timelines, and quality standards with suppliers.
+Facilitate effective communication between technical teams, management, and external stakeholders.
+Financial & Resource Oversight
+
+Monitor and control project budgets, ensuring cost efficiency without compromising quality.
+Forecast resource requirements and adjust allocation based on project needs.
+Report regularly on budget usage, risks, and potential overruns.
+
+
+Requirements
+
+Good working and implementation knowledge of “Agile/Scrum” and agile/scrum practices in a similar environment
+Demonstrated knowledge of metric creation in an Agile/Aspice environment to drive performance and delivery
+Demonstrated success of working with cross functional teams and diverse geographical locations
+Fluent spoken (and ideally written) English and Vietnamese for international communications and coordination of diverse skill teams
+Strong interpersonal skills and demonstrated leadership behaviors
+Knowledge of IoT/EV products and services
+Demonstrated Business acumen with a good understanding of planning, strategy and implementation
+
+
+Optional qualification:
+
+Good knowledge of the inner workings of Vingroup to maximize the value of connectivity for the Enterprise
+Being able to generate the Smart services roadmap with dashboards to demonstrate improvement iterations
+Knowledge of network protocol (both operator and device side), network core platform, Telematics, eSIM
+
+
+Benefits
+
+· Competitive salary
+· Premium healthcare package, including PVI insurance & annual health check-ups
+· 13th-month salary & performance bonuses to reward your contributions
+· Enjoy preferential pricing for services within the Vingroup ecosystem including Vinmec, Vinpearl, and Vinschool...
+· Opportunity to collaborate with and learn from industry-leading professionals in the automotive domain.
+Work Location: Technopark Tower, Vinhomes Ocean Park, Gia Lam, Hanoi

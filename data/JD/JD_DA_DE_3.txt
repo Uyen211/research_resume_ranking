@@ -1,0 +1,50 @@
+bout the job
+Role: Data Engineer - FPT Software
+
+Location: HCM, HN
+
+Working model: Hybrid/Remote
+
+
+Responsibilities
+
+Design, develop, and maintain scalable data pipelines and ETL processes.
+Optimize and manage data storage solutions, including databases and data warehouses.
+Collaborate with data scientists and analysts to understand data requirements and deliver high-quality data solutions.
+Implement data quality and validation processes to ensure data accuracy and integrity.
+Monitor and troubleshoot data systems to ensure optimal performance and reliability.
+Stay up-to-date with the latest industry trends and technologies in data engineering.
+Mentor and provide guidance to junior data engineers.
+
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+5+ years of experience in data engineering or a related role.
+Strong proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL).
+Experience with big data technologies (e.g., Hadoop, Spark, Kafka).
+Proficiency in programming languages such as Python, Java, or Scala.
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) and their data services.
+Strong problem-solving skills and attention to detail.
+Efficient English communication skills (both verbal and written).
+Preferred Qualifications:
+
+Experience with data modeling and data architecture design.
+Knowledge of data governance and security best practices.
+Familiarity with machine learning and data science concepts.
+
+
+Benefits
+
+Successful candidates will be part of a friendly, motivated and committed talent teams in FPT Software HCM (FSOFT) with various benefits and attractive offers:
+• Have chance to build long term relationships with colleagues via multiple projects.
+• Be a true part of customer team across Europe and Asia.
+• Attractive offer, plus annual compensation and performance bonus.
+• “FPT care” health insurance provided by AON and is exclusive for FPT employees.
+• Support for learning and certificate examination.
+• Company shuttle buses provide convenient way of transportation for all employees.
+• Salary review 1 time/year or on excellent performance
+• International, dynamic, friendly working environment
+• Annual leave, working conditions follow Vietnam labor laws.
+• Annual Summer Vacation: follows company’s policy and starts from May every year
+• Campus provide many facilities for FPT employees such as football ground, basketball & volleyball, gym & yoga centre, restaurant, cafeteria, etc.

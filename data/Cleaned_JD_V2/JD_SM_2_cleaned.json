@@ -1,0 +1,63 @@
+{
+    "Metadata": {
+        "Job_Title": "Product Manager",
+        "Processed_At": "2026-04-12T00:37:54.172560"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "educate"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Excel",
+                "Powerpoint",
+                "Strong leadership and motivational skills",
+                "ms visio",
+                "scrum",
+                "sharepoint",
+                "jira",
+                "confluence",
+                "kanban",
+                "English",
+                "Microsoft Office",
+                "agile"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "pmp"
+            ],
+            "From_Taxonomy_Expansion": [
+                "six sigma",
+                "rally",
+                "waterfall",
+                "scaled agile framework",
+                "lean",
+                "hp quality center",
+                "hp alm",
+                "draw.io",
+                "axure",
+                "asana",
+                "uml",
+                "ms project",
+                "bpmn",
+                "erwin",
+                "lucidchart",
+                "microsoft project",
+                "sdlc",
+                "safe",
+                "rup",
+                "rational rose",
+                "balsamiq",
+                "figma",
+                "trello"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "strong communication ability",
+        "leadership capability"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "Metadata": {
+        "Job_Title": "Front End Developers",
+        "Processed_At": "2026-04-12T00:37:09.569687"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 8,
+        "Required_Degree": "Bachelor's degree"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Basic knowledge",
+                "java",
+                "apache kafka",
+                "nft",
+                "API Gateway",
+                "Domain Expertise",
+                "hsk",
+                "api testing"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "scrum of scrums",
+                "Basic understanding",
+                "English"
+            ],
+            "From_Taxonomy_Expansion": [
+                "pig",
+                "rust",
+                "jdk",
+                "spring",
+                "defi",
+                "black-box testing",
+                "white-box testing",
+                "hive",
+                "ipfs",
+                "ethers.js",
+                "spring boot",
+                "toefl",
+                "mapreduce",
+                "regression testing",
+                "spring mvc",
+                "ielts",
+                "topik",
+                "zookeeper",
+                "n1",
+                "jpa",
+                "hibernate",
+                "struts",
+                "hbase",
+                "tdd",
+                "toeic",
+                "bdd",
+                "n3",
+                "integration testing",
+                "hadoop",
+                "solidity",
+                "spring security",
+                "flink",
+                "atdd",
+                "smart contracts",
+                "unit testing",
+                "web3.js",
+                "e2e testing",
+                "n2",
+                "spark",
+                "dapps",
+                "hdfs",
+                "hardhat",
+                "uat",
+                "celpip",
+                "j2ee",
+                "jlpt"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "technical expertise",
+        "must good understanding"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Metadata": {
+        "Job_Title": "Unknown",
+        "Processed_At": "2026-04-12T00:37:13.511921"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 2,
+        "Required_Degree": "intensive training courses"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "python",
+                "java",
+                "t-sql",
+                "scala"
+            ],
+            "Certifications": [
+                "toeic",
+                "professional certification exams"
+            ]
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "postgresql",
+                "golang",
+                "rust",
+                "jdk",
+                "spring",
+                "c",
+                "flask",
+                "django",
+                "celery",
+                "mysql",
+                "mariadb",
+                "symfony",
+                "c++",
+                "sqlite",
+                "spring boot",
+                "sqlalchemy",
+                "go",
+                "oracle db",
+                "spring mvc",
+                "ruby on rails",
+                "jpa",
+                "hibernate",
+                "struts",
+                "oracle 11g",
+                "tornado",
+                "ibm db2",
+                "ruby",
+                "oracle 12c",
+                "laravel",
+                "spring security",
+                "fastapi",
+                "mssql",
+                "sql server",
+                "php",
+                "j2ee"
+            ]
+        }
+    },
+    "Soft_Skills": []
+}

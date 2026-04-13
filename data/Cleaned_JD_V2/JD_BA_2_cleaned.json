@@ -1,0 +1,37 @@
+{
+    "Metadata": {
+        "Job_Title": "Product Manager",
+        "Processed_At": "2026-04-12T00:37:03.101122"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 8,
+        "Required_Degree": "Bachelor's"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Business-Analysis",
+                "Business Analysis",
+                "agile"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "six sigma",
+                "waterfall",
+                "scaled agile framework",
+                "sdlc",
+                "scrum",
+                "lean",
+                "kanban",
+                "safe",
+                "rup"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "data analysis"
+    ]
+}

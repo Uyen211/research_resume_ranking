@@ -1,0 +1,60 @@
+{
+    "Metadata": {
+        "Job_Title": "Data Engineer",
+        "Processed_At": "2026-04-12T00:38:12.289773"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 0,
+        "Required_Degree": "Bachelor's or Master's degree"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "Strong problem-solving skills",
+                "java",
+                "scala",
+                "English",
+                "python"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [],
+            "From_Taxonomy_Expansion": [
+                "tornado",
+                "golang",
+                "rust",
+                "jdk",
+                "spring",
+                "ruby",
+                "c",
+                "laravel",
+                "flask",
+                "django",
+                "fastapi",
+                "celery",
+                "spring security",
+                "symfony",
+                "c++",
+                "spring boot",
+                "sqlalchemy",
+                "go",
+                "ruby on rails",
+                "spring mvc",
+                "php",
+                "jpa",
+                "hibernate",
+                "struts",
+                "j2ee"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "Familiarity with machine learning and data science concepts",
+        "attention detail",
+        "strong problem solving",
+        "Experience with data modeling and data architecture design",
+        "Knowledge of data governance and security best practices",
+        "written oral communication fluent english"
+    ]
+}

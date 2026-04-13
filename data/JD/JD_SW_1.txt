@@ -1,0 +1,35 @@
+About the job
+I. Key Accountabilities
+
+A. Software Development
+
+Responsible for ensuring that the bank's digital platforms work well by managing back end site databases, performance issues, security and that the server, application and database communicate with each other.
+Responsible for collaborating with business tribes to understand the needs and technical requirements before building a web application.
+Responsible for the server-side web application logic and integration with front-end codes
+Collaborate with Front End Developers to design more functional and cohesive codes to enhance user experience.
+Responsible for driving the application lifecycle with a key focus in coding and debugging of web applications based on feedback from testers and users.
+Compile and analyze data, process and codes to troubleshoot problems and identify areas for improvement.
+B. Software Documentation
+
+Work closely with tribe and squad members to translate business requirements into technical design documents.
+Review and implement technical requirement documents by coding flowcharts, layouts, diagrams, charts, code comments and guides for the program.
+II. Requirements
+
+A. Domain Expertise
+
+4 to 8 years of relevant experience in software development
+Basic knowledge in Java backend web development using scripting languages/frameworks
+Candidates with experience in integration-related domains such as API Gateway, API Management, MSK, Kafka, MFT, and Event Streaming are highly preferred.
+Experience working with relational DBMS and SQL
+Experience working in a source-controlled environment, such as Git or TFVC
+Basic understanding of API design and implementation
+Basic understanding of Spring & Spring related projects
+Experience in AWS
+B. Agile / Digital Experience
+
+Understands Agile principles, practices and Scrum methodologies.
+Experience working in Agile teams to support digital transformation projects.
+C. Qualifications
+
+Bachelor's degree in computer science, software engineering or information technology
+Good at English

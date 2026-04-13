@@ -1,0 +1,78 @@
+About the job
+JOB BRIEF
+
+Citics is established with the mission to apply data technology to power trustworthy, speedy and seamless real estate transactions in Vietnam
+Citics is a technology platform which provides different stakeholders in real estate-banking ecosystem (i.e. buyers, sellers, banks, sales agents) with real-time, transparent, reliable information for them to transact more effectively and efficiently. C-Value is the first tech-based service offered by Citics and is gaining popularity in Vietnam banking system. It helps Citics to become a pioneer in property valuation with big data analysis. Citics also plans to leverage our proprietary database to provide tech-based brokerage services in Vietnam in the immediate future.
+Since our inception, Citics has gained significant tractions where our service is used by 5 different major banks and the number is growing, and our brokerage business already closed significant revenue. Citics has already finished its seed funding round with the participation of an international VC and several entrepreneurs/angels. 
+
+Job Description
+
+Develop, optimize, and maintain web applications using React.js and Next.js.
+Build responsive web interfaces, optimizing performance and user experience (UI/UX).
+Integrate APIs from the backend and efficiently handle data.
+Manage application state using Redux or other suitable solutions if needed.
+Work with ESLint to ensure clean, well-structured, consistent, scalable, and maintainable code.
+Collaborate with designers and backend teams to optimize the product.
+
+JOB REQUIREMENT
+
+3 years of experience in web frontend development, proficient in HTML, CSS, and JavaScript.
+Strong expertise in React.js, Redux, and Next.js.
+Experience working with Node.js, Webpack, SCSS, RamdaJS, Google Maps, Axios, and VS Code.
+Experience working in a team environment.
+Experience in web performance optimization and SEO.
+Passion for UX/UI, performance, and accessibility.
+Ability to leverage AI tools to enhance work efficiency.
+Strong logical thinking, problem-solving skills, and systematic analysis.
+
+What We Offer
+
+A strategic role in scaling one of Vietnam’s most innovative proptech platforms.
+Fast-paced, impact-driven, tech-enabled working environment with real market influence.
+Complete benefits package, including insurance, company trips, team building, and regular internal engagement activities.
+Generous special Employee Stock Ownership Plan (ESOP), which is approved by the Board of Directors.
+
+Inside Our Engineering Team
+
+We iterate constantly. There’s no such thing as the best version of anything, just a constant stream of improvements and tests.
+We move fast, really fast. Major changes can be executed in a few days, many times just a few hours.
+We have a data-informed mindset. We try to use data to inform our decision as much as possible.
+We are independent. Most of the time, your team will not need technical assistance from other teams.
+We take risks. We’re not afraid to challenge “best practices”.
+
+Our Attractive Offers Include
+
+Open communication with passionate and experienced members.
+Challenging working environment.
+Social insurance, unemployment insurance under the Insurance Law
+Internal events to bond our mutual understanding & spirit such as team building, team outing, Citic’s birthday, Year-end party…
+Generous special Employee Stock Ownership Plan (ESOP), which is approved by the Board of Directors.
+40 working hours per week from Monday to Friday.
+Young, dynamic working environment with strong startup culture.
+Training and career development opportunities.
+Company team building, annual Birthday party and other events: New Year, X-mas, Company trip, Birthday,,…
+Support fee for parking, marriages, child births, hospitalization.
+Sport clubs (Running, Badminton, Soccer).
+
+How To Apply
+
+If you are a good candidate for the position, we invite you to forward your CV to recruitment@citics.vn. If your profile matches our expectations, we will contact you right away. If you need more help, please contact us at 02873034343.
+
+About Citics
+
+Citics is a comprehensive and pioneering real estate technology platform in Vietnam, built on big data, AI, and seamless digital solutions. By integrating valuation, mortgage referral, property transactions, and investment services into a single platform, Citics simplifies and enhances transparency across the entire real estate journey. Today, Citics operates in over 30 provinces, has digitized more than 33 million properties nationwide, and partners with over 80% of the leading banks in Vietnam. This strong foundation affirms Citics’ position as a trailblazer in the digital transformation of Vietnam’s real estate market.
+
+Facebook: https://www.facebook.com/Citics.vn
+Website: https://citics.vn/
+
+LIÊN HỆ VỚI CHÚNG TÔI
+
+Công ty Cổ phần Citics
+
+Địa chỉ: Căn LV1-00.16, Tầng trệt, Thủ Thiêm Lake View 1 - Số 19 Đường Ven Hồ Trung Tâm, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam
+
+Email: recruitment@citics.vn
+
+Hotline: 028 73034343
+
+Citics luôn khao khát mang đến những cơ hội nghề nghiệp tốt nhất cùng một môi trường làm việc với một tinh thần khởi nghiệp mạnh mẽ dành cho bạn. Không phân biệt bạn là ai, bạn đến từ đâu, bạn học chuyên nghành gì khi bạn sẵn sàng gia nhập Citics, chúng tôi luôn chào đón bạn. Nếu có sự chuẩn bị nào mà chúng tôi có thể thực hiện để giúp đảm bảo bạn có trải nghiệm phỏng vấn thoải mái và tích cực, vui lòng cho chúng tôi biết.

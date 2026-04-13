@@ -1,0 +1,53 @@
+{
+    "Metadata": {
+        "Job_Title": "Unknown",
+        "Processed_At": "2026-04-12T00:38:35.376892"
+    },
+    "Hard_Constraints": {
+        "Min_Experience_Years": 1,
+        "Required_Degree": "Graduated"
+    },
+    "Hard_Skills": {
+        "Must_Have": {
+            "Tech_Skills": [
+                "css",
+                "css3",
+                "jquery",
+                "Good aesthetic sense",
+                "html",
+                "html5",
+                "js",
+                "bootstrap",
+                "javascript"
+            ],
+            "Certifications": []
+        },
+        "Nice_To_Have": {
+            "From_JD_Desirable": [
+                "argocd",
+                "SCSS",
+                "ant design",
+                "Material"
+            ],
+            "From_Taxonomy_Expansion": [
+                "vue.js",
+                "wasm",
+                "redux",
+                "nuxt.js",
+                "typescript",
+                "react.js",
+                "webassembly",
+                "angularjs",
+                "next.js",
+                "angular",
+                "sveltekit",
+                "ts",
+                "svelte"
+            ]
+        }
+    },
+    "Soft_Skills": [
+        "gathering documentation",
+        "Good aesthetic sense"
+    ]
+}

@@ -1,0 +1,33 @@
+About the job
+Job Description
+
+Collaborate with internal departments and clients to understand business needs, problem statements, domain knowledge, and data structures
+Collect, process, and analyze data to generate insights that support business decision-making
+Participate in designing and organizing data within the Data Warehouse Develop dashboards and reports using BI tools (Power BI, Tableau, etc.)
+Ensure data accuracy, consistency, and optimize query performance
+Support non-technical users in effectively utilizing dashboards and data insights
+Work closely with Data Engineers to improve data systems and data quality
+
+Requirements
+
+Bachelor’s degree in Statistics, Economics, Data Analytics, Business Analysis, Data Science, or related fields
+Experience with at least one data visualization tool (Power BI, Tableau, Superset, etc.)
+Proficiency in SQL (including optimization) and Python programming
+Good command of office tools (Word, Excel, PowerPoint)
+Knowledge of Data Warehouse concepts (Dimensional Modeling, BI Self-Service, Semantic Layer, etc.) is a plus
+Strong business sense with the ability to work across different domains (Marketing, Sales, Finance, Manufacturing, etc.)
+Ability to handle large datasets and effectively communicate insights to non-technical stakeholders
+Strong self-learning ability and proactive mindset
+Good communication skills; open-minded and collaborative
+Strong teamwork and stakeholder communication skills.
+
+Benefits
+
+Attractive salary, open for negotiation based on experience and performance
+Bonuses on major holidays (April 30, September 2, New Year, Lunar New Year)
+Performance review after 6 months, with annual salary review
+Clear career progression with training programs and mentorship support
+Dynamic and professional working environment that encourages learning and growth
+Opportunities to join technical seminars, AI-related sessions, and soft skills workshops
+Annual company trip and regular team-building activities, Annual health check-up.
+Full social insurance (SI, HI) in accordance with labor law, plus health insurance package
