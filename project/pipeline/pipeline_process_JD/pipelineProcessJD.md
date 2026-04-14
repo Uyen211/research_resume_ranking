@@ -1,5 +1,7 @@
 # Tài liệu Kiến trúc Hệ thống Lõi: Pipeline 0 - Xử lý và Làm giàu Job Description (JD Enrichment) qua Mô hình Không gian Từ vựng Não Kép
 
+> 📌 **File Code Triển Khai Thực Tế (Colab):** [preprocessJD_V2.ipynb](../../../code/jd_processing/preprocessJD_V2.ipynb)
+
 Tài liệu này xác định ranh giới kỹ thuật tối cao cho ứng dụng đánh giá CV tự động. Trọng tâm của **Pipeline 0** là loại bỏ sự phụ thuộc mù quáng vào các mô hình tạo sinh (Black-box LLMs) dễ sinh ảo giác (Hallucination) và độ trễ cao. Biện pháp thay thế là một triết lý **Hybrid Extraction (GLiNER + S-BERT + Dual-Brain Ontology)** có tính Giải thích được (Explainable AI - XAI), có khả năng chạy độc lập, chi phí bằng Zero và độ tin cậy tiệm cận 100%.
 
 ---
@@ -47,9 +49,9 @@ Chuyển đổi một đoạn văn bản JD phi cấu trúc, đầy tính văn c
 ### Bước 1: Khởi tạo Cơ chế "Não Kép" và Ngưỡng Vector (The Dual-Brain Ontology Engine)
 Đây là "hồn cốt" của hệ thống. Hai bộ não này sở hữu quy tắc đo lường Cosine Similarity độc lập hoàn toàn nhau:
 *   **Não Trái (Left Brain - `tech_ontology.json`):** Mạng đồ thị quy tắc nghiêm ngặt (Strict Graph). Phụ trách Công nghệ, Chứng chỉ tuyệt đối (AWS, PMP) và Fundamental CS (OOP, Algorithm). 
-    *   *Chiến lược Vector:* Ưu tiên rà soát Exact String Match. Nếu dùng S-BERT, ngưỡng Cosine Similarity phải cực kỳ khắt khe (**Threshold > 0.90**), bởi ReactJS là ReactJS, chữ không thể biến dạng nhiều.
+    *   *Chiến lược Vector:* Ưu tiên rà soát Exact String Match. Nếu dùng S-BERT, ngưỡng khoảng cách ngữ nghĩa (Distance Threshold) được thiết lập chung là **Threshold < 0.4**.
 *   **Não Phải (Right Brain - `soft_skills_ontology.json`):** Mạng không gian mờ. Xử lý các câu giao tiếp đa nghĩa ("Làm việc nhóm", "Chịu áp lực số").
-    *   *Chiến lược Vector:* Dùng thuần S-BERT với ngưỡng nhận diện phóng khoáng hơn (**Threshold > 0.75**) lý do là cụm "Kỹ năng làm việc nhóm tốt" và "Phối hợp với đồng nghiệp" viết khác nhau nhưng ngữ nghĩa lại rất gần.
+    *   *Chiến lược Vector:* Dùng chung ngưỡng khoảng cách ngữ nghĩa với Não Trái (**Threshold < 0.4**).
 
 ***Cơ sở Tối ưu Bộ nhớ (Memory & Indexing Design):***
 Tuyệt đối KHÔNG gộp chung file JSON thành 1 vector khổng lồ duy nhất (điều này sẽ làm mất khả năng ánh xạ). Hệ thống sử dụng kỹ thuật **Danh sách Song song (Parallel Lists / Index Mapping)**:
@@ -62,7 +64,7 @@ Tuyệt đối KHÔNG gộp chung file JSON thành 1 vector khổng lồ duy nh�
     *   **Vùng Bắt Buộc (`MUST_ZONE`):** Nhận diện qua: `(essential|requirements|required|must have|key responsibilities|qualifications|technical expertise)`.
     *   **Vùng Ưu Tiên (`WISH_ZONE`):** Nhận diện qua: `(desirable|pluses|nice to have|preferred|advantage|plus|good to have)`.
 2.  **Smart Stop Markers:** AI dừng chiết xuất khi gặp các tiêu đề ngoại vi như: `(benefits|what we offer|about company|closing date|equal opportunity)`.
-3.  **Chunking:** Nếu một phân vùng dài quá 400 từ, hệ thống tự động băm nhỏ thành các "Chunks" để GLiNER không bỏ sót dữ liệu.
+3.  **Chunking:** Nếu một phân vùng dài quá 1500 ký tự (tương đương khoảng 200 từ), hệ thống tự động băm nhỏ thành các "Chunks" để GLiNER không bỏ sót dữ liệu.
 
 ### Bước 2: Bố ráp Thực thể bằng GLiNER và Regex (2-Pass Window Scanning)
 Hệ thống chạy mô hình trên từng phân vùng và từng mảnh (Chunk) theo chiến thuật "Bắn tỉa 2 lượt":

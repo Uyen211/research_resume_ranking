@@ -1,5 +1,7 @@
 # Đặc tả Kỹ thuật: Hệ thống Tiền xử lý CV Toàn diện (Comprehensive CV Pre-processing) - Version 2.5 (FINAL)
 
+> 📌 **File Code Triển Khai Thực Tế (Colab):** [cv_dna_colab_v1.ipynb](../../../code/cv_processing/cv_dna_colab_v1.ipynb)
+
 Tài liệu này xác định các tiêu chuẩn kỹ thuật để chuyển đổi CV từ tập tin văn bản chuẩn hóa sơ bộ sang cấu trúc **Feature-Rich JSON**. Mỗi quy trình trong tài liệu được trình bày dựa trên 3 trụ cột: **Trừu tượng** (Giải thích mục đích), **Logic** (Cơ chế xử lý) và **Cụ thể** (Thông số kỹ thuật).
 
 ---
@@ -56,7 +58,7 @@ Sử dụng thuật toán **Field-to-Field Delimiter Parsing** với cơ chế *
 
 *   **Lớp Cụ thể (Kỹ thuật thực thi)**:
     *   **Tham số Threshold linh hoạt**:
-        *   Các vùng văn xuôi tự nhiên (`summary`, `work_experience`, `education`): `threshold = 0.5` (Đảm bảo lọc sạch các danh từ rác không liên quan).
+        *   Các vùng văn xuôi tự nhiên (`summary`, `work_experience`, `education`): `threshold = 0.4` (Đảm bảo lọc sạch các danh từ rác không liên quan).
         *   Vùng liệt kê dày đặc (`technical_skills`): `threshold = 0.15` (Do dữ liệu liệt kê không có cấu trúc ngữ pháp, độ tự tin dự đoán thường rất thấp. Việc hạ threshold xuống giúp vớt trọn vẹn toàn bộ các list kỹ năng công nghệ mà không bị phớt lờ).
     *   **Bộ lọc rác**: Loại bỏ thực thể có độ dài < 2 hoặc chỉ chứa chữ số.
     *   **Bộ nhãn phân vùng**:

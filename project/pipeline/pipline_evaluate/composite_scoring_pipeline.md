@@ -1,5 +1,7 @@
 # Tài liệu Kỹ thuật: Hệ thống Đánh giá và Xếp hạng CV Đa tầng (Layered Composite Scoring Pipeline)
 
+> 📌 **File Code Triển Khai Thực Tế (Colab):** [composite_scoring_colab.ipynb](../../../code/scoring/composite_scoring_colab.ipynb)
+
 Tài liệu này trình bày chi tiết luồng xử lý (Pipeline) của Hệ thống Xếp hạng Ứng viên. Được tinh lọc từ các phương pháp SOTA (State-of-the-Art) tiên tiến nhất hiện nay, hệ thống áp dụng cơ chế **Toán học Hỗn hợp (Hybrid Mathematical Scoring)** cho việc sàng lọc (Screening) tốc độ cao và dùng **Tác tử Thông minh (LLM-as-a-Judge)** cho việc tự động tạo phản hồi ứng viên.
 
 ---
@@ -25,7 +27,7 @@ Hệ thống phân rã hồ sơ ứng viên thành 5 thành phần (A, B, C, D, 
     *   Lưu ý: Nếu `taxonomy_id = null`, hệ thống bắt buộc lấy mặt chữ gốc để đối chiếu với JD trước.
 *   **Hệ số Thâm niên (Exp Multiplier)**: Điểm thô của mỗi kỹ năng được bù đắp bằng số năm kinh nghiệm: `Point(i) = W_Bucket(i) * (1 + ln(years_i + 1))`.
 *   **Cơ chế Tính Tỷ lệ Cốt lõi (Hard Ratio)**:
-    *   Hệ thống giả lập một "Ứng viên hoàn hảo" (Có tất cả skill trong JD, và đạt max 5 năm kinh nghiệm) để làm mẫu số **Max_Hard_Score**.
+    *   Hệ thống giả lập một "Ứng viên hoàn hảo" để làm mẫu số **Max_Hard_Score**: Ứng viên này sở hữu toàn bộ kỹ năng yêu cầu trong JD và có số năm kinh nghiệm đúng bằng mức tối thiểu mà JD đòi hỏi (`Min_Experience_Years`). *(Cơ chế bảo vệ: Nếu JD không có trường này, bị rỗng hoặc lỗi định dạng, số năm kinh nghiệm lý tưởng tự động lùi về `0`)*.
     *   Ra được Tỷ lệ đáp ứng: `Hard_Ratio = Score_Thực_Tế / Max_Hard_Score`.
 
 ### THÀNH PHẦN B: Ràng buộc Cơ bản (Hard Constraints)
@@ -40,7 +42,7 @@ Xử lý các Kỹ năng có trong CV nhưng hoàn toàn không được JD đò
 
 ### THÀNH PHẦN D: Kỹ năng Mềm (Soft Skills - Semantic Match)
 Vượt qua rào cản từ ngữ (Vd: "Giao tiếp Tốt" vs "Hoạt ngôn"). Hệ thống sử dụng Không gian Ngữ nghĩa Vector.
-*   **Cơ chế**: Dùng mô hình S-BERT (`all-MiniLM-L6-v2`) đo Cosine Similarity. Ngưỡng khớp là `> 0.75`.
+*   **Cơ chế**: Dùng mô hình S-BERT (`all-MiniLM-L6-v2`) đo Cosine Similarity. Ngưỡng khớp là `> 0.55`.
 *   **Điểm**: `+1.0đ` cho mỗi Soft skill khớp ngữ nghĩa. Ghi nhận ở rổ Điểm Thưởng.
 
 ### THÀNH PHẦN E: Chứng chỉ Bổ trợ (Certifications)
@@ -66,6 +68,8 @@ Quy tụ các Giá trị Lợi ích gia tăng (Thành phần C, D, E) & Phần T
 > (Nhìn vào là hiểu ngay: Ứng viên này đã phủ tuyệt đối toàn bộ JD chuẩn mực (100đ), đồng thời có thêm năng lực sâu vượt trội đánh bay khuôn khổ (Bonus 8.5đ). Đây là mỏ vàng dán nhãn Senior).
 
 ### Bước 5: Đóng Vòng Phản hồi (LLM-as-a-Judge & Skill-Gap Analysis)
+*(Lưu ý: Bước này hiện là tùy chọn - Optional và chưa được tích hợp hoàn chỉnh vào luồng thực thi chấm điểm tự động trên Colab)*
+
 Ráp AI Tạo Sinh (Generative AI) vào công đoạn cuối để tạo giá trị nhân văn.
 
 *   **Cơ chế:** Sau khi xếp hạng, lấy **TOP K** ứng viên. Hệ thống cung cấp bảng điểm chi tiết và danh sách kỹ năng thiếu hụt (nằm trong rổ `Must_Have` nhưng CV không có) cho LLM.

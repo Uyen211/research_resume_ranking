@@ -1,4 +1,6 @@
 
+> 📌 **File Code Triển Khai Thực Tế (Colab):** [preprocessDataCV.ipynb](../../../code/cv_processing/preprocessDataCV.ipynb)
+
 ## 3. Pipeline 1: Tiền xử lý Văn bản (Text Preprocessing)
 
 Mục tiêu của Pipeline này là làm sạch dữ liệu nhiễu nhưng vẫn bảo vệ tối đa ngữ nghĩa và các thực thể kỹ thuật.

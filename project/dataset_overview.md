@@ -1,37 +1,46 @@
-# Tổng quan Dataset & Phân tích Vấn đề (Resume Ranking Project)
+# Tổng quan Tập dữ liệu & Cấu trúc Phân tích (Resume Ranking Project)
 
-## 1. Thành phần Dataset hiện tại
+Tài liệu này cung cấp bức tranh toàn cảnh về tập dữ liệu đầu vào và các hệ thống tri thức (Taxonomy) đang được sử dụng trong dự án Xếp hạng phân loại CV (Resume Ranking) ở thời điểm hiện tại.
 
-*   **Số lượng**: 228 hồ sơ (CV).
-*   **Định dạng gốc**: Microsoft Word (.docx) - hiện đang được cung cấp dưới dạng Markdown (.md) để xử lý.
-*   **Đặc điểm văn bản**:
-    *   **Độ dài cực lớn**: Trung bình ~2600 từ, tối đa >6000 từ. Điều này gây thách thức cho các mô hình Embedding truyền thống (thường giới hạn 512-1024 token) và tốn tài nguyên khi sử dụng LLM.
-    *   **Nội dung chuyên sâu**: Chứa nhiều thuật ngữ kỹ thuật, kỹ năng hiếm (Hadoop, Kafka, Spark, Microservices, SAFe, v.v.).
-    *   **Bố cục phức tạp**: CV thực tế ở dạng .docx thường có bảng biểu (Skills matrix), cột đôi (Sidebar), và định dạng không đồng nhất giữa các ứng viên.
+## 1. Thành phần Dataset Hiện tại
 
-## 2. Phân tích bài toán "Noisy Labels" (Job Titles)
+Hệ thống đang xử lý và phân loại tập dữ liệu phức tạp bao gồm 3 lõi chính: Tập CV ứng viên, Tập Yêu cầu công việc (JD), và Hệ thống Tri thức chuyên môn (Taxonomy).
 
-Qua danh sách Job Titles được trích xuất sơ bộ, bộ dữ liệu đang gặp các vấn đề nghiêm trọng về chuẩn hóa dữ liệu:
+### 1.1. Tập dữ liệu Hồ sơ ứng viên (Resumes Dataset)
+*   **Số lượng**: 228 hồ sơ (CV) chất lượng cao.
+*   **Định dạng hiện tại**: Đã được số hóa và phân mảnh từ định dạng ban đầu sang dạng JSON cấu trúc hóa (`clean_resumes/` và `resumes_segment4/`).
+*   **Đặc điểm văn bản & Thách thức**:
+    *   **Siêu dài & Phức tạp**: Chiều dài dao động lớn, đa số vượt ngưỡng 2000 từ, tối đa >6000 từ. 
+    *   **Nhiễu loạn cấu trúc**: Chứa lịch sử làm việc dày đặc thuật ngữ kỹ thuật, xen kẽ với bảng biểu, cột sidebar và thành tích đa dạng.
 
-### 2.1. Sự phân mảnh ngữ nghĩa (Semantic Fragmentation)
-Các chức danh thực chất thuộc cùng một nhóm nhưng đang bị tách rời:
-*   **Nhóm Business Analyst**: "Business Analyst" (28), "Sr. Business Analyst" (14), "BUSINESS ANALYST" (1), "Senior Business Analyst" (3).
-*   **Nhóm Java Developer**: "Sr. Java" (18), "Sr. Java Developer" (10), "Java Developer" (7), "Senior Java Developer" (4), "Sr Java Developer" (1).
-*   **Nhóm Agile/Scrum**: "Scrum Master" (22), "Certified Scrum Master" (3), "SCRUM Master" (2), "Agile Coach" (2).
+### 1.2. Tập dữ liệu Yêu cầu công việc (Job Descriptions - JD)
+*   **Số lượng & Phân mục**: Hơn 15 mẫu JD thực tế được phân loại vào 5 nhóm chức danh chính, bao gồm:
+    *   **BA**: Business Analyst (4 mẫu)
+    *   **DA_DE**: Data Analyst / Data Engineer (3 mẫu)
+    *   **PM**: Project Manager (2 mẫu)
+    *   **SM**: Scrum Master (2 mẫu)
+    *   **SW**: Software Engineer / Developer (6 mẫu)
+*   **Định dạng**: File văn bản thô (.txt) ban đầu tại `data/JD/` đã được đi qua luồng Pipeline xử lý JD thành các đối tượng JSON chuẩn hóa tại `data/Cleaned_JD_V2/`.
 
-### 2.2. Biến thể về định dạng và Casing
-*   **Case sensitivity**: "PROJECT MANAGER" vs "Project Manager" vs "project manager".
-*   **Viết tắt**: "BSA" vs "Business Systems Analyst".
-*   **Ký tự đặc biệt**: "Certified ""SCRUM MASTER"" & ""PO""".
+### 1.3. Hệ quản trị Tri thức & Vector (Taxonomy & ChromaDB)
+*   **Định dạng**: Từ điển tri thức dạng JSON chứa các cây kỹ năng phân tầng (Taxonomy gốc tại `data/taxonomy/`). 
+*   **Vector Database (`data/chroma_db/`)**: Thể hiện hệ thống não bộ sử dụng mô hình S-BERT (`all-MiniLM-L6-v2`) mã hóa toàn bộ cây tri thức dưới dạng Vector 384 chiều, phục vụ tính toán Cosine Distance.
+*   **Não Kép (Dual-Brain Ontology)**: Chia rẽ tách biệt 2 nguồn dữ liệu `tech_ontology` (kỹ năng cứng/công nghệ có threshold chuẩn xác < 0.4) và `soft_skills_ontology` (kỹ năng mềm có threshold < 0.4).
 
-### 2.3. Nhãn thiếu thông tin (Broad/Noisy Labels)
-Một số nhãn quá chung chung hoặc bị trích xuất lỗi, không phản ánh đúng vị trí:
-*   "Project" (1), "Java" (1), "Hadoop" (1).
-*   "Senior IT" (1), "Consultant" (4), "SME" (1).
+---
 
-## 3. Các thách thức kỹ thuật chính
+## 2. Luồng Tiền xử lý Dữ liệu (ETL Data Pipeline)
 
-1.  **Vấn đề Context Window**: Với các CV >6000 từ, việc đưa toàn bộ văn bản vào một lần prompt hoặc một lần embedding sẽ dẫn đến mất mát thông tin (Loss in the middle) hoặc vượt giới hạn token.
-2.  **Mất cấu trúc khi chuyển đổi (.docx -> .md)**: Mặc dù Markdown dễ đọc cho LLM, nhưng các thông tin về vị trí (Layout) vốn quan trọng để phân biệt giữa "Kỹ năng mục tiêu" và "Dự án đã làm" có thể bị nhòa đi.
-3.  **Khoảng cách ngữ nghĩa (Semantic Gap)**: Job Title trong CV có thể là "Sr. Java Developer" nhưng JD có thể yêu cầu "Software Engineer II". Hệ thống cần một lớp Mapping/Taxonomy trung gian.
-4.  **Thiếu nhãn chuẩn (Ground Truth)**: Danh sách Job Title hiện tại là "Noisy", không thể dùng làm mục tiêu huấn luyện trực tiếp (Supervised Learning) mà cần quy trình lọc (Refinement).
+Để giải quyết các thách thức từ văn bản tự do, tập CV đã trải qua các bước tiền xử lý chuyên sâu:
+
+1.  **Làm sạch (Text Cleaning)**: Chuẩn hóa Unicode NFC, xử lý dấu ký tự điều hướng không chuẩn (Bullet formatting) và chuẩn hóa khoảng trắng.
+2.  **Phân mảnh thông minh (Semantic Segmentation)**: 
+    *   Sử dụng AI siêu nhẹ và tốc độ cao (**Gemini 3.1 Flash Lite Preview**).
+    *   CV trên 2000 từ được phân mảnh kết hợp tóm tắt (Summarize), trong khi CV dưới 2000 từ được phân đoạn thuần túy. 
+    *   Output đóng gói dữ liệu vào 5 thẻ XML-like: `<INFORMATION_SECTION>`, `<SUMMARY_SECTION>`, `<SKILLS_SECTION>`, `<EXPERIENCE_SECTION>`, `<EDUCATION_SECTION>`.
+3.  **Lưu kết quả**: Dữ liệu sau được lưu tập trung tại file `df_resumes_segmented_final.csv`, sẵn sàng để Pipeline CV DNA quét lại bằng hệ thống học sơ đồ (GLiNER).
+
+## 3. Bản chất của Vấn đề Cốt lõi & Hướng Giải quyết
+
+*   **Vấn đề Context Window & Nghẽn Cổ Chai AI**: Đưa CV trên 6000 từ trực tiếp vào mô hình Vector truyền thống hoặc LLM trực tiếp thường gây mất thông tin (Loss in the middle) và tốn tài nguyên. -> *"Giải quyết qua việc dùng Gemini 3.1 thu gọn thành Segment trước, và Zonal Chunking (cắt khúc 200 từ) ở giai đoạn NER kế tiếp."*
+*   **Khoảng cách Ngữ nghĩa (Semantic Gap)**: Lỗi chính tả hay từ đồng nghĩa (VD: React vs ReactJS) sẽ làm thất bại thuật toán string match thông thường. -> *"Giải quyết thông qua việc map Vector với Hệ tri thức Não Kép áp dụng S-BERT."*
